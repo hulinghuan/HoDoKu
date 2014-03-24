@@ -42947,6 +42947,18 @@
       </ownedParameter>
     </ownedOperation>
   </packagedElement>
+  <packagedElement xmi:type="uml:Activity" xmi:id="_LYvrELOKEeOA5vFLrprNZg" name="Activity1">
+    <eAnnotations xmi:id="_LiL68LOKEeOA5vFLrprNZg" source="uml2.diagrams">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_LiMiALOKEeOA5vFLrprNZg" type="Activity" element="_LYvrELOKEeOA5vFLrprNZg" name="ActivityDiagram1" measurementUnit="Himetric">
+        <children xmi:type="umlnotation:UMLFrame" xmi:id="_LiMiAbOKEeOA5vFLrprNZg" type="Activity Frame" element="_LYvrELOKEeOA5vFLrprNZg" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+          <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_LiMiArOKEeOA5vFLrprNZg" type="ActivityCompartment"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_LiMiA7OKEeOA5vFLrprNZg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LiMiBLOKEeOA5vFLrprNZg" x="793" y="793"/>
+        </children>
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_LiMiBbOKEeOA5vFLrprNZg" name="support_hide_pins"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
   <profileApplication xmi:id="_oRLOtZ4wEeOE-dZDFsDIHg">
     <eAnnotations xmi:id="_oRLOtp4wEeOE-dZDFsDIHg" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
