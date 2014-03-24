@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8"?><vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1393570158836" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1393570158836" name\="jdk" path\="C\:\\Program Files\\IBM\\SDP\\jdk"/>\r\n<vm id\="was.vm.was.base.v7" name\="WebSphere Application Server v7.0 JRE" path\="C\:\\Program Files\\IBM\\SDP\\runtimes\\base_v7_stub\\java\\jre"/>\r\n</vmType>\r\n</vmSettings>
